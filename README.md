@@ -4,3 +4,8 @@
 
 ## Source Code
 [Fully code](https://github.com/LukeMathWalker/zero-to-production)
+
+## Reference
+1. [Actix web](https://actix.rs/)
++ [actix-web’s documentation](https://docs.rs/actix-web/4.0.1/actix_web/index.html)
++ [actix-web’s examples collection](https://github.com/actix/examples)
