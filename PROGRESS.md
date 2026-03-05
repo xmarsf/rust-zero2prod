@@ -1,4 +1,2 @@
-+ next: 3.6 Refocus
-+ 05/03/2026 11:39: page 39
-+ 03/02/2026 01:33: page 23
-+ 03/02/2026 01:12: page 18
++ Current page: 41
++ 3.7.2 Capturing Our Requirements As Tests
