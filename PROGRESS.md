@@ -1,2 +1,3 @@
-+ Current page: 62
-+ 3.8.5 Writing Our First Query
++ Current page: 68
++ 3.8.5.4
+  Our Test Assertion
