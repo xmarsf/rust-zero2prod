@@ -15,10 +15,10 @@ cargo install --version='~0.7' sqlx-cli \
   exit 1
 fi
 
-DB_USER="${POSTGRES_USER:=postgres}"
-DB_PASSWORD="${POSTGRES_PASSWORD:=password}"
+DB_USER="${POSTGRES_USER:=zero}"
+DB_PASSWORD="${POSTGRES_PASSWORD:=zero}"
 DB_NAME="${POSTGRES_DB:=newsletter}"
-DB_PORT="${POSTGRES_PORT:=5433}"
+DB_PORT="${POSTGRES_PORT:=5432}"
 DB_HOST="${POSTGRES_HOST:=localhost}"
 
 
